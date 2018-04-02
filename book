@@ -1,0 +1,15 @@
+#include <iostream>
+#include <string>
+#include <windows.h>
+
+class book
+{
+	int pages;
+	int words;
+};
+int main()
+{
+	book();
+
+	return 0;
+}
