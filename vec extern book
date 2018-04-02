@@ -1,0 +1,26 @@
+#include <book.h>
+#include <vector>
+#pragma once
+void sample()
+{
+	std::vector<books>;
+	books.push_back(book)("rty", "asd", "123456", (100)
+		(books.push_back(book)("ety", "asd", "123456" 100)
+		(books.push_back(book)("wer", "asd", "123456" 100)
+			(books.push_back(book)("qwe", "asd", "123456" 100)
+			(booka:("Author",A) ("Title",B) ("Intro",C)
+		for (int i = 0; i < book.size(); i++)
+		{
+			std::cout << books[i].name << std:: endl;
+		};
+	extern int pages = *pages;
+	int publish_data;
+	int publish_date = publish_data;
+}
+void main()
+{
+	int * name;
+	
+	
+	
+}
